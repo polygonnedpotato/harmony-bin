@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: harmony.res.jar
+Name: harmony/res/
+Package-Title: Harmony Resources
+Package-Version: 0.0.0
+Package-Vendor: Creative Development
+Specification-Title: Harmony Resources
+Specification-Version: 0.0.0
+Specification-Vendor: Creative Development
+Implementation-Title: harmony.res
+Implementation-Version: v0r0b0
+Implementation-Vendor: Creative Development

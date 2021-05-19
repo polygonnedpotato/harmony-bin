@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: main
+Class-Path: hrmysystem.jar
+Name: hrmysystem
+Package-Title: Harmony System Operation Language
+Package-Version: 0.0.0
+Package-Vendor: Creative Development
+Specification-Title: Harmony Operator
+Specification-Version: 0.0.0
+Specification-Vendor: Creative Development
+Implementation-Title: hrmysystem
+Implementation-Version: v0r0b0
+Implementation-Vendor: Creative Development

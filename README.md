@@ -16,7 +16,12 @@ The [linux apps](./linuxapps) directory conatins C++ code for linux apps that he
 
 ## Build
 
-There should be build scripts availiable for use on building the app.  
+Build scripts are provided for creating a _Project Harmony System Container_ file (`.hsc`). Currently, it would build into `HRMNY_[Version]_GIT.hsc`, which could be flashed by the _system updater_. For example, Version 1.2.34 would be built and saved as `HRMNY_V1R2FB34_GIT.hsc`.
 
+### System-specific instructions
+
+#### Linux
+```sh
+bash ./```
 
 >Project Harmony ©2021 Creative Development.
